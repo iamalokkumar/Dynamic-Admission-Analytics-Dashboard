@@ -52,4 +52,4 @@ To run this project locally:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/admission-analytics-dashboard.git
+   git clone https://github.com/iamalokkumar/Dynamic-Admission-Analytics-Dashboard.git
